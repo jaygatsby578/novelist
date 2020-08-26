@@ -9,6 +9,7 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'bootstrap'
 gem 'data-confirm-modal'
 gem 'kaminari'
+gem 'rails-i18n'
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
